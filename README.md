@@ -128,6 +128,12 @@ index.html
   </a>
 </p>
 
+
+---
+## 📽️ Demo Video
+
+https://youtu.be/9YtzSPXJx1M?si=I-f05_cbb9sEs0Id
+
 ---
 <!-- ======================= FUTURE ======================= -->
 ## 🔮 Future Improvements
